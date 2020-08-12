@@ -11,7 +11,7 @@ public class rensyuu {
 	public static void main(String args[]) {
 		int[] array = makeArray(4);
 		for (int i: array) {
-			System.out.println(i);
+		
 		}
 				}
 	}
